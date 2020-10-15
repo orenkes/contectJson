@@ -1,5 +1,7 @@
   {
     "main": [
+       { "title": "ראשי"},
+       {"buttons":[
         {
             "name": "מסך ניהול מסמכים",
             "type": "fa-desktop",
@@ -30,8 +32,13 @@
                 "link": "#",
                 "element": "button"
         }
+    ]
+    }
+       
     ],
     "secondary": [
+        { "title": "ראשי"},
+        {"buttons":[
         {
             "name": "מסך ניהול מסמכים",
             "type": "fa-desktop",
@@ -50,6 +57,8 @@
                     "link": "#",
                     "element": "button"
             }
+        }
+    ]
     ]
  
   }
