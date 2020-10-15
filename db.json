@@ -1,5 +1,6 @@
 [
     {
+     "main":[{
     "name": "מסך ניהול מסמכים",
     "type": "header",
     "link": "#",
@@ -28,5 +29,6 @@
     "type": "header",
     "link": "#",
     "element": "button"
+}]
     }
     ]
