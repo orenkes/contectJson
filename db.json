@@ -2,31 +2,31 @@
     "main": [
         {
             "name": "מסך ניהול מסמכים",
-            "type": "header",
+            "type": "fa-desktop",
             "link": "#",
             "element": "button"
             },
             {
                 "name": "נהגים צעירים",
-                "type": "header",
+                "type": "fa-desktop",
                 "link": "#",
                 "element": "button"
           },
          {
                     "name": "ביטוח רכב",
-                    "type": "header",
+                    "type": "fa-desktop",
                     "link": "#",
                     "element": "button"
             },
             {
                 "name": " כיסוי נוסף והרחבות",
-                "type": "header",
+                "type": "fa-desktop",
                 "link": "#",
                 "element": "button"
         },
             {
                 "name": "אימות נתונים",
-                "type": "header",
+                "type": "fa-angle-double-left",
                 "link": "#",
                 "element": "button"
         }
