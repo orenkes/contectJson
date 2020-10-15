@@ -1,5 +1,5 @@
 {
-    "ראשי": [
+    "main": [
         {
             "name": "מסך ניהול מסמכים",
             "type": "fa-desktop",
@@ -31,7 +31,7 @@
                 "element": "button"
         }
     ],
-    "משני": [
+    "secondary": [
         {
             "name": "מסך ניהול מסמכים",
             "type": "fa-desktop",
