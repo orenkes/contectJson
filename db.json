@@ -1,5 +1,37 @@
 {
-    "main": [
+    "ראשי": [
+        {
+            "name": "מסך ניהול מסמכים",
+            "type": "fa-desktop",
+            "link": "#",
+            "element": "button"
+            },
+            {
+                "name": "נהגים צעירים",
+                "type": "fa-desktop",
+                "link": "#",
+                "element": "button"
+          },
+         {
+                    "name": "ביטוח רכב",
+                    "type": "fa-angle-double-left",
+                    "link": "#",
+                    "element": "button"
+            },
+            {
+                "name": " כיסוי נוסף והרחבות",
+                "type": "fa-angle-double-left",
+                "link": "#",
+                "element": "button"
+        },
+            {
+                "name": "אימות נתונים",
+                "type": "fa-angle-double-left",
+                "link": "#",
+                "element": "button"
+        }
+    ],
+    "משני": [
         {
             "name": "מסך ניהול מסמכים",
             "type": "fa-desktop",
@@ -17,19 +49,7 @@
                     "type": "fa-desktop",
                     "link": "#",
                     "element": "button"
-            },
-            {
-                "name": " כיסוי נוסף והרחבות",
-                "type": "fa-desktop",
-                "link": "#",
-                "element": "button"
-        },
-            {
-                "name": "אימות נתונים",
-                "type": "fa-angle-double-left",
-                "link": "#",
-                "element": "button"
-        }
+            }
     ]
 
   }
